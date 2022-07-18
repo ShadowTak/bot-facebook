@@ -2,7 +2,7 @@
 
 สอนใช้BOT
 
-1.หาappstate.json
+1.หาappstate.json แล้วเอามาใส่
 วิธีหา
 >https://youtu.be/H5yZGlTYrBY
 
